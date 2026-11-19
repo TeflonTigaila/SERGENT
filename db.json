@@ -1,0 +1,18 @@
+{
+    "update":{
+        "date":["*"],
+        "time":["10:30:00","20:30:00"],
+        "command":["echo \"update\""]
+
+    },
+    "restart":{
+        "date":["2026-11-19"],
+        "time":["10:30:30","21:30:00"],
+        "command":["echo \"restart\""]
+    },
+    "backup":{
+        "date":["2026-11-20"],
+        "time":["10:30:30","21:30:00"],
+        "command":["echo \"backup\""]
+    }
+}
